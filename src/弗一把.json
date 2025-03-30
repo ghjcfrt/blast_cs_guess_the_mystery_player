@@ -1,0 +1,2562 @@
+{
+  "age": {
+    "18": {
+      "majapp": {
+        "1": [
+          {
+            "name": "Senzu",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "The MongolZ",
+            "nationality": "MN",
+            "district": "Asia"
+          },
+          {
+            "name": "Jimpphat",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "MOUZ",
+            "nationality": "FI",
+            "district": "Europe"
+          },
+          {
+            "name": "donk",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Spirit",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ]
+      }
+    },
+    "19": {
+      "majapp": {
+        "1": [
+          {
+            "name": "lauNX",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Sprout",
+            "nationality": "RO",
+            "district": "Europe"
+          },
+          {
+            "name": "zont1x",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Spirit",
+            "nationality": "UA",
+            "district": "Europe"
+          },
+          {
+            "name": "noway",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Imperial",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "ICY",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Virtus.pro",
+            "nationality": "KZ",
+            "district": "CIS"
+          }
+        ],
+        "3": [
+          {
+            "name": "m0NESY",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "G2",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "4": [
+          {
+            "name": "Techno",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "The MongolZ",
+            "nationality": "MN",
+            "district": "Asia"
+          }
+        ]
+      }
+    },
+    "20": {
+      "majapp": {
+        "1": [
+          {
+            "name": "headtr1ck",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "B8",
+            "nationality": "UA",
+            "district": "Europe"
+          },
+          {
+            "name": "Staehr",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Astralis",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "try",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Imperial",
+            "nationality": "AR",
+            "district": "South America"
+          },
+          {
+            "name": "SALAZAR",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "Wicadia",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Eternal Fire",
+            "nationality": "TR",
+            "district": "Asia"
+          }
+        ],
+        "2": [
+          {
+            "name": "w0nderful",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Natus Vincere",
+            "nationality": "UA",
+            "district": "Europe"
+          },
+          {
+            "name": "nqz",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "paiN",
+            "nationality": "BR",
+            "district": "South America"
+          }
+        ],
+        "3": [
+          {
+            "name": "xertioN",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "MOUZ",
+            "nationality": "IL",
+            "district": "mea"
+          }
+        ]
+      }
+    },
+    "21": {
+      "majapp": {
+        "1": [
+          {
+            "name": "kRaSnaL",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "PL",
+            "district": "Europe"
+          },
+          {
+            "name": "decenty",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Imperial",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "kauez",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "paiN",
+            "nationality": "BR",
+            "district": "South America"
+          }
+        ],
+        "2": [
+          {
+            "name": "F1KU",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "OG",
+            "nationality": "PL",
+            "district": "Europe"
+          },
+          {
+            "name": "Patsi",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Aurora",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "3": [
+          {
+            "name": "flameZ",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Vitality",
+            "nationality": "IL",
+            "district": "mea"
+          },
+          {
+            "name": "dumau",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Legacy",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "Zyphon",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Sashi Esport",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ],
+        "4": [
+          {
+            "name": "magixx",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Spirit",
+            "nationality": "RU",
+            "district": "CIS"
+          },
+          {
+            "name": "drop",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "MIBR",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "jabbi",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Astralis",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ],
+        "5": [
+          {
+            "name": "fox",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "00NATION",
+            "nationality": "PT",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "22": {
+      "majapp": {
+        "1": [
+          {
+            "name": "LNZ",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "HEROIC",
+            "nationality": "SE",
+            "district": "Europe"
+          },
+          {
+            "name": "kraghen",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "9INE",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "lux",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Legacy",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "xfl0ud",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "HEROIC",
+            "nationality": "TR",
+            "district": "Asia"
+          },
+          {
+            "name": "CYPHER",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "GB",
+            "district": "Europe"
+          },
+          {
+            "name": "story",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "SAW",
+            "nationality": "PT",
+            "district": "Europe"
+          }
+        ],
+        "2": [
+          {
+            "name": "Plopski",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Metizport",
+            "nationality": "SE",
+            "district": "Europe"
+          },
+          {
+            "name": "FaNg",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Party Astronauts",
+            "nationality": "CA",
+            "district": "North America"
+          },
+          {
+            "name": "Krimbo",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "BIG",
+            "nationality": "DE",
+            "district": "Europe"
+          },
+          {
+            "name": "torzsi",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "MOUZ",
+            "nationality": "HU",
+            "district": "Europe"
+          },
+          {
+            "name": "fame",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Virtus.pro",
+            "nationality": "RU",
+            "district": "CIS"
+          },
+          {
+            "name": "misutaaa",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "FR",
+            "district": "Europe"
+          },
+          {
+            "name": "skullz",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "FURIA",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "s1ren",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "BetBoom",
+            "nationality": "RU",
+            "district": "CIS"
+          },
+          {
+            "name": "shalfey",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "9 Pandas",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "3": [
+          {
+            "name": "latto",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Legacy",
+            "nationality": "BR",
+            "district": "South America"
+          }
+        ],
+        "4": [
+          {
+            "name": "Ax1Le",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "BetBoom",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "5": [
+          {
+            "name": "Brollan",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "MOUZ",
+            "nationality": "SE",
+            "district": "Europe"
+          },
+          {
+            "name": "b1t",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Natus Vincere",
+            "nationality": "UA",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "23": {
+      "majapp": {
+        "1": [
+          {
+            "name": "adamS",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "RO",
+            "district": "Europe"
+          },
+          {
+            "name": "HexT",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Evil Geniuses",
+            "nationality": "CA",
+            "district": "North America"
+          },
+          {
+            "name": "s1n",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "M80",
+            "nationality": "DE",
+            "district": "Europe"
+          },
+          {
+            "name": "n1ssim",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Legacy",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "SLOWLY",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Tyloo",
+            "nationality": "CN",
+            "district": "Asia"
+          },
+          {
+            "name": "Woro2k",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Monte",
+            "nationality": "UA",
+            "district": "Europe"
+          },
+          {
+            "name": "TMB",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Copenhagen Flames",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "KENSI",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Aurora",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "2": [
+          {
+            "name": "b4rtiN",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "GODSENT",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "isak",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Metizport",
+            "nationality": "SE",
+            "district": "Europe"
+          },
+          {
+            "name": "volt",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "GB",
+            "district": "Europe"
+          }
+        ],
+        "4": [
+          {
+            "name": "sh1ro",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Spirit",
+            "nationality": "RU",
+            "district": "CIS"
+          },
+          {
+            "name": "stavn",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Astralis",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "bLitz",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "The MongolZ",
+            "nationality": "MN",
+            "district": "Asia"
+          },
+          {
+            "name": "nafany",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "BetBoom",
+            "nationality": "RU",
+            "district": "CIS"
+          },
+          {
+            "name": "degster",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Team Falcons",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ]
+      }
+    },
+    "24": {
+      "majapp": {
+        "1": [
+          {
+            "name": "junior",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Nouns",
+            "nationality": "US",
+            "district": "North America"
+          },
+          {
+            "name": "Norwi",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Aurora",
+            "nationality": "RU",
+            "district": "CIS"
+          },
+          {
+            "name": "ewjerkz",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "PT",
+            "district": "Europe"
+          }
+        ],
+        "2": [
+          {
+            "name": "hallzerk",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Complexity",
+            "nationality": "NO",
+            "district": "Europe"
+          },
+          {
+            "name": "neaLaN",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "1win",
+            "nationality": "KZ",
+            "district": "CIS"
+          },
+          {
+            "name": "JDC",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "BIG",
+            "nationality": "DE",
+            "district": "Europe"
+          },
+          {
+            "name": "kyxsan",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Team Falcons",
+            "nationality": "MK",
+            "district": "Europe"
+          },
+          {
+            "name": "Goofy",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "PL",
+            "district": "Europe"
+          },
+          {
+            "name": "hardzao",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "BR",
+            "district": "South America"
+          }
+        ],
+        "3": [
+          {
+            "name": "interz",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Cloud9",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "4": [
+          {
+            "name": "Keoz",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Into The Breach",
+            "nationality": "BE",
+            "district": "Europe"
+          },
+          {
+            "name": "Grim",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Complexity",
+            "nationality": "US",
+            "district": "North America"
+          }
+        ],
+        "5": [
+          {
+            "name": "broky",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "FaZe",
+            "nationality": "LV",
+            "district": "Europe"
+          },
+          {
+            "name": "TeSeS",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Team Falcons",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "Spinx",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "MOUZ",
+            "nationality": "IL",
+            "district": "mea"
+          },
+          {
+            "name": "FL1T",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Virtus.pro",
+            "nationality": "RU",
+            "district": "CIS"
+          },
+          {
+            "name": "nicoodoz",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "frozen",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "FaZe",
+            "nationality": "SK",
+            "district": "Europe"
+          }
+        ],
+        "8": [
+          {
+            "name": "ZywOo",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Vitality",
+            "nationality": "FR",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "25": {
+      "majapp": {
+        "1": [
+          {
+            "name": "Queenix",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "faveN",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "9INE",
+            "nationality": "DE",
+            "district": "Europe"
+          },
+          {
+            "name": "imoRR",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "TR",
+            "district": "Asia"
+          },
+          {
+            "name": "DANK1NG",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Tyloo",
+            "nationality": "CN",
+            "district": "Asia"
+          },
+          {
+            "name": "Smooya",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Into The Breach",
+            "nationality": "GB",
+            "district": "Europe"
+          },
+          {
+            "name": "NODIOS",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ],
+        "2": [
+          {
+            "name": "Freeman",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Tyloo",
+            "nationality": "HK",
+            "district": "Asia"
+          },
+          {
+            "name": "max",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "9z",
+            "nationality": "UY",
+            "district": "South America"
+          },
+          {
+            "name": "NertZ",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Liquid",
+            "nationality": "IL",
+            "district": "mea"
+          },
+          {
+            "name": "jL",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Natus Vincere",
+            "nationality": "LT",
+            "district": "Europe"
+          }
+        ],
+        "3": [
+          {
+            "name": "iM",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Natus Vincere",
+            "nationality": "RO",
+            "district": "Europe"
+          },
+          {
+            "name": "JT",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Complexity",
+            "nationality": "ZA",
+            "district": "mea"
+          },
+          {
+            "name": "floppy",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "US",
+            "district": "North America"
+          },
+          {
+            "name": "gxx-",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Bad News Eagles",
+            "nationality": "XK",
+            "district": "Europe"
+          },
+          {
+            "name": "rigoN",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Bad News Eagles",
+            "nationality": "CH",
+            "district": "Europe"
+          }
+        ],
+        "4": [
+          {
+            "name": "CeRq",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "500",
+            "nationality": "BG",
+            "district": "Europe"
+          },
+          {
+            "name": "hades",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Monte",
+            "nationality": "PL",
+            "district": "Europe"
+          }
+        ],
+        "6": [
+          {
+            "name": "VINI",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Imperial",
+            "nationality": "BR",
+            "district": "South America"
+          }
+        ],
+        "8": [
+          {
+            "name": "KSCERATO",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "FURIA",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "yuurih",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "FURIA",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "Twistzz",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Liquid",
+            "nationality": "CA",
+            "district": "North America"
+          }
+        ],
+        "9": [
+          {
+            "name": "ropz",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Vitality",
+            "nationality": "EE",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "26": {
+      "majapp": {
+        "1": [
+          {
+            "name": "Farlig",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Copenhagen Flames",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "slaxz-",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "M80",
+            "nationality": "DE",
+            "district": "Europe"
+          }
+        ],
+        "2": [
+          {
+            "name": "k1to",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DE",
+            "district": "Europe"
+          },
+          {
+            "name": "niko",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ],
+        "3": [
+          {
+            "name": "hampus",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Metizport",
+            "nationality": "SE",
+            "district": "Europe"
+          },
+          {
+            "name": "SunPayus",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "HEROIC",
+            "nationality": "ES",
+            "district": "Europe"
+          },
+          {
+            "name": "maden",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "HEROIC",
+            "nationality": "ME",
+            "district": "Europe"
+          },
+          {
+            "name": "mezii",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Vitality",
+            "nationality": "GB",
+            "district": "Europe"
+          }
+        ],
+        "4": [
+          {
+            "name": "Krad",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "9 Pandas",
+            "nationality": "RU",
+            "district": "CIS"
+          },
+          {
+            "name": "INS",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "FlyQuest",
+            "nationality": "AU",
+            "district": "Oceania"
+          },
+          {
+            "name": "aliStair",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "AU",
+            "district": "Oceania"
+          }
+        ],
+        "5": [
+          {
+            "name": "chelo",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "FURIA",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "woxic",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Eternal Fire",
+            "nationality": "TR",
+            "district": "Asia"
+          },
+          {
+            "name": "sjuush",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ],
+        "6": [
+          {
+            "name": "Qikert",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Parivision",
+            "nationality": "KZ",
+            "district": "CIS"
+          }
+        ],
+        "11": [
+          {
+            "name": "electronic",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Virtus.pro",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ]
+      }
+    },
+    "27": {
+      "majapp": {
+        "1": [
+          {
+            "name": "blameF",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Fnatic",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "JOTA",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "Patti",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ],
+        "2": [
+          {
+            "name": "nawwk",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ],
+        "3": [
+          {
+            "name": "refrezh",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "9INE",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ],
+        "4": [
+          {
+            "name": "nexa",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "RS",
+            "district": "Europe"
+          },
+          {
+            "name": "Summer",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Rare Atom",
+            "nationality": "CN",
+            "district": "Asia"
+          }
+        ],
+        "5": [
+          {
+            "name": "dycha",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Monte",
+            "nationality": "PL",
+            "district": "Europe"
+          },
+          {
+            "name": "Liazz",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "FlyQuest",
+            "nationality": "AU",
+            "district": "Oceania"
+          }
+        ],
+        "6": [
+          {
+            "name": "Aleksib",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Natus Vincere",
+            "nationality": "FI",
+            "district": "Europe"
+          }
+        ],
+        "7": [
+          {
+            "name": "Stewie2K",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "US",
+            "district": "North America"
+          },
+          {
+            "name": "REZ",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "GamerLegion",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ],
+        "9": [
+          {
+            "name": "Magisk",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Team Falcons",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ],
+        "10": [
+          {
+            "name": "NAF-FLY",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Liquid",
+            "nationality": "CA",
+            "district": "North America"
+          }
+        ],
+        "12": [
+          {
+            "name": "flamie",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "13": [
+          {
+            "name": "EliGE",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "FaZe",
+            "nationality": "US",
+            "district": "North America"
+          },
+          {
+            "name": "s1mple",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "UA",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "28": {
+      "majapp": {
+        "1": [
+          {
+            "name": "exit",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "MIBR",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "CRUC1AL",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Into The Breach",
+            "nationality": "NL",
+            "district": "Europe"
+          },
+          {
+            "name": "JUST",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "PT",
+            "district": "Europe"
+          }
+        ],
+        "2": [
+          {
+            "name": "mopoz",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Movistar Riders",
+            "nationality": "ES",
+            "district": "Europe"
+          }
+        ],
+        "3": [
+          {
+            "name": "biguzera",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "paiN",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "SENER1",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Bad News Eagles",
+            "nationality": "XK",
+            "district": "Europe"
+          },
+          {
+            "name": "syrsoN",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "DE",
+            "district": "Europe"
+          },
+          {
+            "name": "juanflatroo",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Bad News Eagles",
+            "nationality": "XK",
+            "district": "Europe"
+          },
+          {
+            "name": "loWel",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "ES",
+            "district": "Europe"
+          }
+        ],
+        "4": [
+          {
+            "name": "Attacker",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Tyloo",
+            "nationality": "CN",
+            "district": "Asia"
+          },
+          {
+            "name": "swag",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "US",
+            "district": "North America"
+          }
+        ],
+        "5": [
+          {
+            "name": "sdy",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "ENCE",
+            "nationality": "UA",
+            "district": "Europe"
+          },
+          {
+            "name": "DavCost",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "RU",
+            "district": "CIS"
+          },
+          {
+            "name": "autimatic",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Evil Geniuses",
+            "nationality": "US",
+            "district": "North America"
+          }
+        ],
+        "6": [
+          {
+            "name": "felps",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "bodyy",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "3DMAX",
+            "nationality": "FR",
+            "district": "Europe"
+          }
+        ],
+        "8": [
+          {
+            "name": "chopper",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Spirit",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "11": [
+          {
+            "name": "aizy",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Sashi Esport",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ],
+        "13": [
+          {
+            "name": "NiKo",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Team Falcons",
+            "nationality": "BA",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "29": {
+      "majapp": {
+        "2": [
+          {
+            "name": "es3tag",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "FASHR",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Entropiq",
+            "nationality": "NL",
+            "district": "Europe"
+          },
+          {
+            "name": "HEN1",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "raalz",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Copenhagen Flames",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ],
+        "3": [
+          {
+            "name": "sinnopsyy",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Bad News Eagles",
+            "nationality": "XK",
+            "district": "Europe"
+          },
+          {
+            "name": "malta",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "VERTEX",
+            "nationality": "AU",
+            "district": "Oceania"
+          }
+        ],
+        "4": [
+          {
+            "name": "valde",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "HooXi",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "somebody",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Rare Atom",
+            "nationality": "CN",
+            "district": "Asia"
+          },
+          {
+            "name": "hutji",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "5": [
+          {
+            "name": "XANTARES",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Eternal Fire",
+            "nationality": "TR",
+            "district": "Asia"
+          },
+          {
+            "name": "tiziaN",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Entropiq",
+            "nationality": "DE",
+            "district": "Europe"
+          },
+          {
+            "name": "huNter",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "G2",
+            "nationality": "BA",
+            "district": "Europe"
+          }
+        ],
+        "6": [
+          {
+            "name": "Pimp",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ],
+        "7": [
+          {
+            "name": "arT",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Fluxo",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "Spiidi",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DE",
+            "district": "Europe"
+          }
+        ],
+        "8": [
+          {
+            "name": "jks",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Liquid",
+            "nationality": "AU",
+            "district": "Oceania"
+          },
+          {
+            "name": "cadiaN",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Astralis",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "tabseN",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "BIG",
+            "nationality": "DE",
+            "district": "Europe"
+          }
+        ],
+        "14": [
+          {
+            "name": "gla1ve",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "ENCE",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "kennyS",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "FR",
+            "district": "Europe"
+          }
+        ],
+        "16": [
+          {
+            "name": "dev1ce",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Astralis",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "30": {
+      "majapp": {
+        "1": [
+          {
+            "name": "robiin",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Alliance",
+            "nationality": "SE",
+            "district": "Europe"
+          },
+          {
+            "name": "jnt",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Sharks",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "facecrack",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Invictus",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "2": [
+          {
+            "name": "kaze",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Rare Atom",
+            "nationality": "MY",
+            "district": "Asia"
+          },
+          {
+            "name": "DeadFox",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "HU",
+            "district": "Europe"
+          }
+        ],
+        "3": [
+          {
+            "name": "suNny",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "FI",
+            "district": "Europe"
+          }
+        ],
+        "4": [
+          {
+            "name": "saffee",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "MIBR",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "rallen",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "PL",
+            "district": "Europe"
+          }
+        ],
+        "5": [
+          {
+            "name": "Sico",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "AU",
+            "district": "Oceania"
+          },
+          {
+            "name": "dexter",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "FlyQuest",
+            "nationality": "AU",
+            "district": "Oceania"
+          },
+          {
+            "name": "twist",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Alliance",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ],
+        "6": [
+          {
+            "name": "wayLander",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "7": [
+          {
+            "name": "shroud",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "CA",
+            "district": "North America"
+          }
+        ],
+        "9": [
+          {
+            "name": "HObbit",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "1win",
+            "nationality": "KZ",
+            "district": "CIS"
+          },
+          {
+            "name": "MSL",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "denis",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DE",
+            "district": "Europe"
+          },
+          {
+            "name": "ScreaM",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "BE",
+            "district": "Europe"
+          }
+        ],
+        "10": [
+          {
+            "name": "TACO",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "BR",
+            "district": "South America"
+          }
+        ],
+        "11": [
+          {
+            "name": "kioShiMa",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "FR",
+            "district": "Europe"
+          }
+        ],
+        "12": [
+          {
+            "name": "seized",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "13": [
+          {
+            "name": "byali",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "PL",
+            "district": "Europe"
+          }
+        ],
+        "14": [
+          {
+            "name": "JW",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Eyeballers",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ],
+        "16": [
+          {
+            "name": "KRIMZ",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Fnatic",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ],
+        "17": [
+          {
+            "name": "rain",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "FaZe",
+            "nationality": "NO",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "31": {
+      "majapp": {
+        "4": [
+          {
+            "name": "roeJ",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          },
+          {
+            "name": "RUBINO",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "NO",
+            "district": "Europe"
+          }
+        ],
+        "5": [
+          {
+            "name": "Lekr0",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "SE",
+            "district": "Europe"
+          },
+          {
+            "name": "ShahZam",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "US",
+            "district": "North America"
+          }
+        ],
+        "6": [
+          {
+            "name": "stanislaw",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Wildcard",
+            "nationality": "CA",
+            "district": "North America"
+          }
+        ],
+        "9": [
+          {
+            "name": "jkaem",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "NO",
+            "district": "Europe"
+          }
+        ],
+        "10": [
+          {
+            "name": "Skadoodle",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "US",
+            "district": "North America"
+          }
+        ],
+        "14": [
+          {
+            "name": "Snax",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "G2",
+            "nationality": "PL",
+            "district": "Europe"
+          },
+          {
+            "name": "flusha",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "32": {
+      "majapp": {
+        "1": [
+          {
+            "name": "yel",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "9z",
+            "nationality": "BR",
+            "district": "South America"
+          },
+          {
+            "name": "roman",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "SAW",
+            "nationality": "PT",
+            "district": "Europe"
+          },
+          {
+            "name": "MUTiRiS",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "SAW",
+            "nationality": "PT",
+            "district": "Europe"
+          },
+          {
+            "name": "advent",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Tyloo",
+            "nationality": "CN",
+            "district": "Asia"
+          }
+        ],
+        "3": [
+          {
+            "name": "T.c",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Complexity",
+            "nationality": "ZA",
+            "district": "mea"
+          }
+        ],
+        "4": [
+          {
+            "name": "JACKZ",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "FR",
+            "district": "Europe"
+          }
+        ],
+        "7": [
+          {
+            "name": "allu",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "JANO",
+            "nationality": "FI",
+            "district": "Europe"
+          }
+        ],
+        "8": [
+          {
+            "name": "AZR",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "TALON",
+            "nationality": "AU",
+            "district": "Oceania"
+          }
+        ],
+        "10": [
+          {
+            "name": "nex",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DE",
+            "district": "Europe"
+          }
+        ],
+        "17": [
+          {
+            "name": "shox",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Marcos Gaming",
+            "nationality": "FR",
+            "district": "Europe"
+          }
+        ],
+        "18": [
+          {
+            "name": "apEX",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Vitality",
+            "nationality": "FR",
+            "district": "Europe"
+          }
+        ],
+        "19": [
+          {
+            "name": "dupreeh",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "33": {
+      "majapp": {
+        "3": [
+          {
+            "name": "dephh",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "M80",
+            "nationality": "GB",
+            "district": "Europe"
+          }
+        ],
+        "4": [
+          {
+            "name": "oskar",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Sinners",
+            "nationality": "CZ",
+            "district": "Europe"
+          }
+        ],
+        "5": [
+          {
+            "name": "Maikelele",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ],
+        "6": [
+          {
+            "name": "mou",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "KZ",
+            "district": "CIS"
+          }
+        ],
+        "7": [
+          {
+            "name": "Devilwalk",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ],
+        "8": [
+          {
+            "name": "pronax",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ],
+        "9": [
+          {
+            "name": "friberg",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ],
+        "10": [
+          {
+            "name": "WorldEdit",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "11": [
+          {
+            "name": "Happy",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "FR",
+            "district": "Europe"
+          }
+        ],
+        "13": [
+          {
+            "name": "fer",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "BR",
+            "district": "South America"
+          }
+        ],
+        "14": [
+          {
+            "name": "GuardiaN",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "SK",
+            "district": "Europe"
+          }
+        ],
+        "16": [
+          {
+            "name": "olofmeister",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "SE",
+            "district": "Europe"
+          },
+          {
+            "name": "FalleN",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "FURIA",
+            "nationality": "BR",
+            "district": "South America"
+          }
+        ]
+      }
+    },
+    "34": {
+      "majapp": {
+        "3": [
+          {
+            "name": "MAJ3R",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Eternal Fire",
+            "nationality": "TR",
+            "district": "Asia"
+          },
+          {
+            "name": "KQLY",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "FR",
+            "district": "Europe"
+          }
+        ],
+        "4": [
+          {
+            "name": "Havoc",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "AU",
+            "district": "Oceania"
+          },
+          {
+            "name": "AZK",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "CA",
+            "district": "North America"
+          }
+        ],
+        "5": [
+          {
+            "name": "LEGIJA",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DE",
+            "district": "Europe"
+          }
+        ],
+        "6": [
+          {
+            "name": "jdm64",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "US",
+            "district": "North America"
+          }
+        ],
+        "8": [
+          {
+            "name": "Ex6TenZ",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "BE",
+            "district": "Europe"
+          },
+          {
+            "name": "adreN",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "US",
+            "district": "North America"
+          }
+        ],
+        "10": [
+          {
+            "name": "dennis",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "SE",
+            "district": "Europe"
+          },
+          {
+            "name": "chrisJ",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "NL",
+            "district": "Europe"
+          },
+          {
+            "name": "n0thing",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "US",
+            "district": "North America"
+          }
+        ],
+        "12": [
+          {
+            "name": "GeT_RiGhT",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ],
+        "15": [
+          {
+            "name": "xizt",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Ninjas in Pyjamas",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ],
+        "18": [
+          {
+            "name": "karrigan",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "FaZe",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "35": {
+      "majapp": {
+        "4": [
+          {
+            "name": "SPUNJ",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "AU",
+            "district": "Oceania"
+          },
+          {
+            "name": "fnx",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "BR",
+            "district": "South America"
+          }
+        ],
+        "5": [
+          {
+            "name": "hazed",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "US",
+            "district": "North America"
+          },
+          {
+            "name": "SEMPHIS",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "CA",
+            "district": "North America"
+          }
+        ],
+        "9": [
+          {
+            "name": "ANGE1",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "UA",
+            "district": "Europe"
+          },
+          {
+            "name": "HiKo",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "US",
+            "district": "North America"
+          },
+          {
+            "name": "RpK",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "FR",
+            "district": "Europe"
+          }
+        ],
+        "12": [
+          {
+            "name": "AdreN",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "KZ",
+            "district": "CIS"
+          }
+        ],
+        "13": [
+          {
+            "name": "cajunb",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DK",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "36": {
+      "majapp": {
+        "5": [
+          {
+            "name": "kUcheR",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "RU",
+            "district": "CIS"
+          },
+          {
+            "name": "reltuC",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "US",
+            "district": "North America"
+          }
+        ],
+        "8": [
+          {
+            "name": "seang@res",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "US",
+            "district": "North America"
+          }
+        ],
+        "11": [
+          {
+            "name": "SmithZz",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "FR",
+            "district": "Europe"
+          },
+          {
+            "name": "Dosia",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "RU",
+            "district": "CIS"
+          }
+        ],
+        "12": [
+          {
+            "name": "f0rest",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "SE",
+            "district": "Europe"
+          }
+        ],
+        "13": [
+          {
+            "name": "pashaBiceps",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "PL",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "37": {
+      "majapp": {
+        "8": [
+          {
+            "name": "gob b",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "DE",
+            "district": "Europe"
+          }
+        ],
+        "10": [
+          {
+            "name": "starix",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "UA",
+            "district": "Europe"
+          }
+        ],
+        "12": [
+          {
+            "name": "markeloff",
+            "isNoob": false,
+            "position": "AWPer",
+            "team": "Free Agent",
+            "nationality": "UA",
+            "district": "Europe"
+          }
+        ],
+        "13": [
+          {
+            "name": "Edward",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "UA",
+            "district": "Europe"
+          }
+        ],
+        "15": [
+          {
+            "name": "NEO",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "FaZe",
+            "nationality": "PL",
+            "district": "Europe"
+          },
+          {
+            "name": "Zeus",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Free Agent",
+            "nationality": "UA",
+            "district": "Europe"
+          }
+        ]
+      }
+    },
+    "38": {
+      "majapp": {
+        "12": [
+          {
+            "name": "TaZ",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "G2",
+            "nationality": "PL",
+            "district": "Europe"
+          }
+        ],
+        "15": [
+          {
+            "name": "B1ad3",
+            "isNoob": false,
+            "position": "Rifler",
+            "team": "Natus Vincere",
+            "nationality": "UA",
+            "district": "Europe"
+          }
+        ]
+      }
+    }
+  }
+}
