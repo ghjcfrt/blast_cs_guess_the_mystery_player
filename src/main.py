@@ -2,7 +2,6 @@ import json
 import sys
 from pathlib import Path
 
-from PySide6.QtCore import Qt
 from PySide6.QtWidgets import QApplication, QMainWindow, QTextEdit, QVBoxLayout
 
 from ui import Ui_MainWindow
@@ -20,7 +19,10 @@ class MainApp(QMainWindow):
     def load_data():
         # 加载 JSON 数据
         try:
-            with Path("./src/弗一把.json").open(encoding="utf-8") as file:
+            # 获取运行时路径
+            base_path = getattr(sys, "_MEIPASS", Path(__file__).resolve().parent)
+            json_path = Path(base_path) / "弗一把.json"
+            with json_path.open(encoding="utf-8") as file:
                 return json.load(file)
         except FileNotFoundError:
             print("错误: 无法找到 '弗一把.json' 文件，请检查文件路径。")
@@ -37,28 +39,28 @@ class MainApp(QMainWindow):
             "中东和非洲": "MEA",
             "大洋洲": "Oceania",
         }
-        position_mapping_reverse = {
-            "步枪手": "Rifler",
-            "狙击手": "AWPer",
+        position_mapping_reverse = {"步枪手": "Rifler", "狙击手": "AWPer"}
+
+        filters = {
+            "age": self.ui.age_combobox.currentText(),
+            "majapp": self.ui.majapp_combobox.currentText(),
+            "position": position_mapping_reverse.get(self.ui.position_combobox.currentText(), "未知"),
+            "district": district_mapping_reverse.get(self.ui.district_combobox.currentText(), "未知"),
+            "mode": self.ui.mode_combobox.currentText(),
         }
-        age = self.ui.age_combobox.currentText()
-        majapp = self.ui.majapp_combobox.currentText()
-        position = self.ui.position_combobox.currentText()
-        mode = self.ui.mode_combobox.currentText()
-        district = self.ui.district_combobox.currentText()
 
-        # 将中文赛区和位置选项转换为英文
-        district_en = district_mapping_reverse.get(district, district)
-        position_en = position_mapping_reverse.get(position, position)
+        results = self.get_filtered_results(filters)
+        self.display_results(results)
 
+    def get_filtered_results(self, filters):
         results = []
         for age_key, age_data in self.data["age"].items():
-            if age not in {"未知", age_key}:
+            if filters["age"] not in {"未知", age_key}:
                 continue
             for majapp_key, players in age_data["majapp"].items():
-                if majapp not in {"未知", majapp_key}:
+                if filters["majapp"] not in {"未知", majapp_key}:
                     continue
-                filtered_players = [
+                results.extend([
                     {
                         "name": player["name"],
                         "team": player["team"],
@@ -69,15 +71,15 @@ class MainApp(QMainWindow):
                         "majapp": majapp_key,
                     }
                     for player in players
-                    if (position == "未知" or player["position"] == position_en)
-                    and (district == "未知" or player["district"] == district_en)
-                    and ((mode == "Pro" and not player["isNoob"]) or (mode == "Noob" and player["isNoob"]))
-                ]
-                results.extend(filtered_players)
+                    if (filters["position"] == "未知" or player["position"] == filters["position"])
+                    and (filters["district"] == "未知" or player["district"] == filters["district"])
+                    and (
+                        (filters["mode"] == "Pro" and not player["isNoob"])
+                        or (filters["mode"] == "Noob" and player["isNoob"])
+                    )
+                ])
+        return results
 
-        self.display_results(results)
-
-    # 显示结果
     def display_results(self, results):
         district_mapping = {
             "Asia": "亚洲",
@@ -89,17 +91,11 @@ class MainApp(QMainWindow):
             "Oceania": "大洋洲",
         }
 
-        # 检查并清除现有布局
-        existing_layout = self.ui.scrollAreaWidgetContents.layout()
-        if existing_layout is None:
-            layout = QVBoxLayout(self.ui.scrollAreaWidgetContents)  # 创建新布局
-        else:
-            while existing_layout.count():  # 清除现有布局中的所有小部件
-                item = existing_layout.takeAt(0)
-                widget = item.widget()
-                if widget is not None:
-                    widget.deleteLater()
-            layout = existing_layout  # 复用现有布局
+        layout = self.ui.scrollAreaWidgetContents.layout() or QVBoxLayout(self.ui.scrollAreaWidgetContents)
+        while layout.count():
+            item = layout.takeAt(0)
+            if widget := item.widget():
+                widget.deleteLater()
 
         # 添加新内容
         for player in results:
@@ -111,7 +107,6 @@ class MainApp(QMainWindow):
             text_edit = QTextEdit(self.ui.scrollAreaWidgetContents)
             text_edit.setText(text)
             text_edit.setReadOnly(True)
-            text_edit.setAlignment(Qt.AlignmentFlag.AlignLeft | Qt.AlignmentFlag.AlignTop)
             layout.addWidget(text_edit)
 
 
