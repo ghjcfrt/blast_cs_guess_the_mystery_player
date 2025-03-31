@@ -2,6 +2,9 @@
 
 这是一个用于帮助查找符合条件的选手的程序，适用于 [Blast Guess 游戏](https://blast.tv/counter-strikle)。通过输入条件，程序可以快速筛选出可能的选手。
 
+![5afdd19a4c29216fb5128ca669c0a1d6](https://github.com/user-attachments/assets/f949c1c0-8ca6-4a72-83fc-bb811e2211ac)
+
+
 ## 图片来源
 
 `pro.jpg` 图片来源：[https://space.bilibili.com/12656751](https://space.bilibili.com/12656751)
